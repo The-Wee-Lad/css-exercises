@@ -1,0 +1,11 @@
+.container .text
+{
+    background-color: yellow;
+    color:red;
+    font-size: 16px;
+    font-weight:550;
+     text-align: center;
+}
+.text{
+    text-decoration: none;
+}

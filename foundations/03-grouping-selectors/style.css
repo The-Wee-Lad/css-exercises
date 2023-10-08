@@ -1,0 +1,15 @@
+button{
+    font-size: 50px;
+    border-color: grey;
+    border-width: 4px;
+}
+
+#one
+{
+    background-color: black;
+    color :white
+}
+#two
+{
+    background-color: yellow;
+}

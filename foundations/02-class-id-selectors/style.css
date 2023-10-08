@@ -1,0 +1,23 @@
+.n1,.n3,#n4,#n2,#n1{
+    background-color: burlywood;
+      }
+ .n3{
+      font-size: 40px;
+    }
+  .n1{
+    background-color: burlywood;
+    font-size: 23px;
+  }
+  #n2
+  {
+    color: blue;
+    background-color: white;
+    font-size: 50px;
+
+  }
+  #n4
+  {
+    background-color:chartreuse;
+    font-size: 32px;
+    font-weight: bold;
+  }
